@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Дима\source\repos\Pinatas\main.cpp(8,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Pinatas.vcxproj -> C:\Users\Дима\source\repos\Pinatas\x64\Debug\Pinatas.exe
